@@ -1,0 +1,9 @@
+{
+    "require": {
+        "nette/application": "^2.3",
+        "nette/bootstrap": "^2.3",
+        "nette/database": "^2.3",
+        "nette/forms": "^2.3",
+        "tracy/tracy": "^2.3"
+    }
+}
